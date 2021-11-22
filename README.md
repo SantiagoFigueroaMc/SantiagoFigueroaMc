@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santiago Figueroa
-- 👀 I’m interested in Mobile Applications and Cibersecurity
+- 👀 I’m interested in Web Development, Mobile Applications and Cibersecurity
 - 🌱 I’m currently learning Software Design and Kotlin
 
 <!---
